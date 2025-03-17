@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportSATAsFF", "ImportSATAsFF\ImportSATAsFF.csproj", "{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2019|Any CPU = 2019|Any CPU
+		2020|Any CPU = 2020|Any CPU
+		2021|Any CPU = 2021|Any CPU
+		2022|Any CPU = 2022|Any CPU
+		2023|Any CPU = 2023|Any CPU
+		2024|Any CPU = 2024|Any CPU
+		2025|Any CPU = 2025|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2019|Any CPU.ActiveCfg = 2019|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2019|Any CPU.Build.0 = 2019|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2020|Any CPU.ActiveCfg = 2020|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2020|Any CPU.Build.0 = 2020|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2021|Any CPU.ActiveCfg = 2021|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2021|Any CPU.Build.0 = 2021|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2022|Any CPU.ActiveCfg = 2022|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2022|Any CPU.Build.0 = 2022|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2023|Any CPU.ActiveCfg = 2023|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2023|Any CPU.Build.0 = 2023|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2024|Any CPU.ActiveCfg = 2024|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2024|Any CPU.Build.0 = 2024|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2025|Any CPU.ActiveCfg = 2025|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.2025|Any CPU.Build.0 = 2025|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697C6735-1E8A-4AD0-AC81-AEA5D1FEAEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C469CD-599C-44E9-B666-1C439961B96E}
+	EndGlobalSection
+EndGlobal
